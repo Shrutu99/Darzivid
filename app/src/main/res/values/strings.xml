@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Darzivid</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_darzivid">Welcome to DarziVid</string>
+    <string name="create_an_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="name">Name</string>
+    <string name="todo_1">TODO</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="enter_password">enter password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="todo_2">TODO</string>
+    <string name="enter_your_10_digit_mob_no">enter your 10 digit mob no.</string>
+    <string name="_91">+91</string>
+    <string name="next">Next</string>
+</resources>
