@@ -11,6 +11,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Darzivid">
         <activity
+            android:name=".user_role"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".otp"
+            android:exported="false" />
+        <activity
+            android:name=".phone_no"
+            android:exported="false" />
+        <activity
             android:name=".splash"
             android:exported="true">
             <intent-filter>
@@ -24,9 +36,7 @@
             android:exported="true" />
         <activity
             android:name=".Welcome_page"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
 
         <meta-data
             android:name="preloaded_fonts"
