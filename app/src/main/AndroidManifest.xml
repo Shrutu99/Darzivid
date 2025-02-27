@@ -12,16 +12,16 @@
         android:theme="@style/Theme.Darzivid">
         <activity
             android:name=".user_role"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".login"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".otp"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".phone_no"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".splash"
             android:exported="true">

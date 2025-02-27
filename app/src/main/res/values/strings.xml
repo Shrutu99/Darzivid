@@ -16,4 +16,15 @@
     <string name="enter_your_10_digit_mob_no">enter your 10 digit mob no.</string>
     <string name="_91">+91</string>
     <string name="next">Next</string>
+    <string name="next1">Next</string>
+    <string name="todo5">TODO</string>
+    <string name="login_to_your_account">login to your account</string>
+    <string name="enter_your_name_or_email">Enter your name or email</string>
+    <string name="username">Username</string>
+    <string name="passwordd">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="tailor">Tailor</string>
+    <string name="customer">Customer</string>
+    <string name="choose_your_role">Choose your role</string>
 </resources>
