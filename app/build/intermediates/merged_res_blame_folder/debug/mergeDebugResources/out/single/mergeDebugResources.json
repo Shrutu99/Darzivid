@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_lock.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_tailor_service.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\tailor_service.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_eye_hide.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\eye_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_arrow_up.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_buy_again_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\buy_again_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_attantion.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\attantion.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu6.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_menu_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_notification_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "com.example.darzividnew.app-debug-62:/layout_activity_pay_out.xml.flat",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_pay_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_congratulation.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\congratulation.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_profileedittextshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\profileedittextshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_choose_location.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_choose_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_proceedbutonshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\proceedbutonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_roboto_regular.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\roboto_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_truck.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\truck.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_kurtaandpajamam.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\kurtaandpajamam.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_facebook.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_edittextshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\edittextshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu7.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_darzi.png.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\darzi.png"
+    },
+    {
+        "merged": "com.example.darzividnew.app-debug-62:/layout_activity_details.xml.flat",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_sign.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_banner1.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\banner1.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_user.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_dollar.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\dollar.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_blousef.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\blousef.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_cart.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_banner3.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\banner3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_serachshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\serachshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_arrow_left.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_lato_regular.ttf.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\lato_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_cashondelivery.png.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\cashondelivery.png"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_plus.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_menu_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_lato_bold.ttf.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\lato_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu2.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_kurtam.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\kurtam.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_greenbuttongradient.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\greenbuttongradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_tunicf.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\tunicf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_mail.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_shortkurtif.jpeg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\shortkurtif.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu5.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_bell.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu3.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_google.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\google.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_d_logo.png.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\d_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_arrow_down.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_notifaction_bottom.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_notifaction_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_kurtipairf.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\kurtipairf.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_congrats_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_congrats_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_banner2.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_trash.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_history.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_textviewshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\textviewshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_pay_out.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_pay_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_populer_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\populer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu4.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_eye.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_restorent.jpeg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\restorent.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_recent_buy_item.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\recent_buy_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_transparent_logo.png.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\transparent_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_shirtsm.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\shirtsm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_addtocartshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\addtocartshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_menu1.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\menu1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_burrgar.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\burrgar.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_yeonsung_regular.ttf.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\yeonsung_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_lato_light.ttf.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\lato_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_suitm.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\suitm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_user_plus.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\user_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_right.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\right.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_minus.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_sademoji.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\sademoji.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\font_lato_extra_bold.ttf.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\font\\lato_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_dressf.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\dressf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_congrats.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\congrats.xml"
+    },
+    {
+        "merged": "com.example.darzividnew.app-debug-62:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_applogo.jpg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\applogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_pantm.jpeg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\pantm.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_bg.jpeg.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\bg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_gohomeshape.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\gohomeshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_whitebutton.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\whitebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\layout_activity_recent_order_items.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_recent_order_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_congo.png.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\congo.png"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_plazzof.webp.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\plazzof.webp"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-debug-62:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\drawable\\logo.xml"
+    }
+]

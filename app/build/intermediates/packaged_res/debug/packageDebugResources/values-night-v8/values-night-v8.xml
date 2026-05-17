@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.DarziVid" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">#000000</item>
+        
+        
+    </style>
+    <style name="Theme.DarziVid" parent="Base.Theme.DarziVid"/>
+</resources>

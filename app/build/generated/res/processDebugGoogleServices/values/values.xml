@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1053419956939-qhet3i2i5eo2ravl1um3lpugs0g89jgr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://darzivid-81ae0-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1053419956939</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-tuIPkGnKzQRvSZn-jrdAHTTHBu9gHXY</string>
+    <string name="google_app_id" translatable="false">1:1053419956939:android:900dfabff3115247c2894e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-tuIPkGnKzQRvSZn-jrdAHTTHBu9gHXY</string>
+    <string name="google_storage_bucket" translatable="false">darzivid-81ae0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">darzivid-81ae0</string>
+</resources>

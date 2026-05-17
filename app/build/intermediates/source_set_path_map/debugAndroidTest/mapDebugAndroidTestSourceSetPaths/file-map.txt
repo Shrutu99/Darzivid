@@ -1,0 +1,7 @@
+com.example.darzividnew.test.app-jetified-core-1.5.0-0 C:\Users\shrut\.gradle\caches\8.11.1\transforms\489b04b1922714fdcba5b7d2122aa4b1\transformed\jetified-core-1.5.0\res
+com.example.darzividnew.test.app-jetified-tracing-1.2.0-1 C:\Users\shrut\.gradle\caches\8.11.1\transforms\8bbfcd8cdb99f7f915f90d039b2b4f9f\transformed\jetified-tracing-1.2.0\res
+com.example.darzividnew.test.app-jetified-annotation-experimental-1.4.1-2 C:\Users\shrut\.gradle\caches\8.11.1\transforms\f91ef21d48730521d0e6074b2a3dc014\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.darzividnew.test.app-androidTest-3 D:\DarziVid\app\build\generated\res\resValues\androidTest\debug
+com.example.darzividnew.test.app-mergeDebugAndroidTestResources-4 D:\DarziVid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.darzividnew.test.app-mergeDebugAndroidTestResources-5 D:\DarziVid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.darzividnew.test.app-debugAndroidTest-6 D:\DarziVid\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

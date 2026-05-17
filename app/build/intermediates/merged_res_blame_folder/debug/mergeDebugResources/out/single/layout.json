@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_pay_out.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_pay_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\populer_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\populer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\notification_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\buy_again_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\buy_again_item.xml"
+    },
+    {
+        "merged": "com.example.darzividnew.app-mergeDebugResources-61:/layout/activity_pay_out.xml",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_pay_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\menu_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_choose_location.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_choose_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_details.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_menu_bottom_sheet.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.darzividnew.app-mergeDebugResources-61:/layout/activity_splash_screen.xml",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\cart_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_notifaction_bottom.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_notifaction_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_congrats_bottom_sheet.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_congrats_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.darzividnew.app-mergeDebugResources-61:/layout/activity_details.xml",
+        "source": "com.example.darzividnew.app-main-64:/layout/activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_sign.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_start.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\recent_buy_item.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\recent_buy_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-mergeDebugResources-61:\\layout\\activity_recent_order_items.xml",
+        "source": "C:\\Users\\shrut\\.gradle\\daemon\\8.11.1\\com.example.darzividnew.app-main-64:\\layout\\activity_recent_order_items.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.example.darzividnew.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
